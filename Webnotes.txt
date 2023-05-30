@@ -1,0 +1,74 @@
+attributes in html:
+   attributes in html can be used to apply some basic amount of style.
+
+Body tag attributes:
+1.text= color name/code code
+2.bgcolor= color name/code code
+3.background color=path
+4.align= left(def),center,right
+
+
+basic tags:
+Br tag:break tag in html to  break the line explicitly break tag in  single tag
+Hr tag:is used to insert harizontal rule in UI
+
+Scrolling data:
+marquee tag is used to scroll the data
+<marquee>content </marquee>
+
+attributes of marquee:
+right
+
+
+     JAVASCRIPT
+   ===================
+
+1.fundamentals
+    ->Keywords
+    ->variables and values
+    ->rules of identifiers
+    ->datatypes
+    ->operators
+    ->flow control statements
+         1)DMS      -if,if else,if else if else,switch
+         2)Looping  -for,while,do while,for in,for of
+                      functions
+
+2.ECMA script-6
+     ->let,constent
+     ->templet literals
+     ->arrays and its inbuild methods
+     ->String and its inbuild methods
+     ->objects and CURD for object
+     ->date objects
+     ->settimeout and setinterval methods
+     ->local storage and session storages(kind of frontend database)
+
+
+3.DOM
+4.
+
+KEYWORDS
+---------
+     keywords are the reserved words in the programming language ,which will do some specific task.
+         var,if,else,switch,for,while,do,continoue,break,return,function,typeof.
+   
+VARIABLES
+---------
+    ->variables are named memory loction which can used to store any values
+    ->javascript is a un-typed language because we does not decide the datatype in compile time ,so we just create a variables using ONE SINGLE KEYWORD ***VAR***
+    ->default value in javascript id u defined.
+
+    SYSNTAX:  var variablename=any value;
+              declaration        intialization
+
+
+RULES FOR INDENTIFIERS
+-------------------------
+->first character should be  an alphabet or $ or _.
+->rest of the character can alpaha numeric or 
+->keywords cannot be identifier.
+->use always camel case for an identifier
+->indentifier are case sensitive.
+
+     
